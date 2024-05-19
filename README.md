@@ -13,6 +13,7 @@
 * postgresSQL
 * djangorestframework
 * djoser
+* GitHub Actions
 
 ### В API доступны следующие эндпоинты:
 
